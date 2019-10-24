@@ -26,7 +26,7 @@ Initialise Mac with sensible defaults for a development environment
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - [NVM](https://github.com/nvm-sh/nvm) & latest LTS version of [Node.js](https://nodejs.org/en/download/)
 - [AWS CLI](https://aws.amazon.com/cli/)
-- [[Terraform](https://www.terraform.io/)
+- [Terraform](https://www.terraform.io/)
 
 ### Applications
 
