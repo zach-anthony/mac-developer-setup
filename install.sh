@@ -53,6 +53,7 @@ echo "$(git config --list)"
 # Install Commitizen
 npm install -g commitizen
 npm install -g cz-conventional-changelog
+npm install -g standard-version
 echo '{ "path": "cz-conventional-changelog" }' >~/.czrc
 echo 'Commitizen installed'
 
